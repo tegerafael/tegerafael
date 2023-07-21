@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Tiago Rafael
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Nodejs
+- 🌱 Estudando Back-end focado em Nodejs
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegerafael&show_icons=true&theme=dracula"/>
@@ -9,6 +8,8 @@
 </div>
 
 <div style="display: inline_block" /> <br>
+  
+  <img align="center" alt="Tiago-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Tiago-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Tiago-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Tiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
